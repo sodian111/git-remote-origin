@@ -1,2 +1,2 @@
 # git-remote-origin
-원격 저장소 실험
+hi my name is __
